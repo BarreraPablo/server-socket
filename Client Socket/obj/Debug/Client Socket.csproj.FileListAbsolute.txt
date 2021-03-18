@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\bin\Debug\Client Socket.exe.config
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\bin\Debug\Client Socket.exe
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\bin\Debug\Client Socket.pdb
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\obj\Debug\Client Socket.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\obj\Debug\Client Socket.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\obj\Debug\Client Socket.exe
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Client Socket\Client Socket\Client Socket\obj\Debug\Client Socket.pdb

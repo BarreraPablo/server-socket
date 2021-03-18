@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\bin\Debug\Asynchronous Server Socket.exe.config
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\bin\Debug\Asynchronous Server Socket.exe
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\bin\Debug\Asynchronous Server Socket.pdb
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\obj\Debug\Asynchronous Server Socket.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\obj\Debug\Asynchronous Server Socket.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\obj\Debug\Asynchronous Server Socket.exe
+C:\Users\pablo\Documents\Proyectos\C#\Asynchronous Server Socket\Asynchronous Server Socket\Asynchronous Server Socket\obj\Debug\Asynchronous Server Socket.pdb
